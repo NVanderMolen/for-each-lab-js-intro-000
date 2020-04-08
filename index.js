@@ -3,7 +3,7 @@
 //   array.forEach(`${index}: ${element}`);
 //   console.log(array);
 // }
-// 
+//
 // function iterate(callBack){
 //   var array = [`Ayla`, `Aryeh`, `Chewie`, `Jack`];
 //   array.forEach(callBack);
